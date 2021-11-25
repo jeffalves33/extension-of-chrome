@@ -1,0 +1,23 @@
+#autopreenchimento{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    width: 270px;
+    position: absolute;
+    top: 0;
+    right: 10px;
+    border-radius: 10px;
+    background: black; 
+}
+
+.elementos{
+    width: 270px;
+    padding: 0;
+    margin: 0;
+    margin-left: 10px;
+    color: white; 
+}
+
+button{
+    text-decoration: none;
+}
